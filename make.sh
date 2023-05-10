@@ -2,7 +2,7 @@
 
 # AWS variables
 AWS_PROFILE=default
-AWS_REGION=eu-west-3
+AWS_REGION=eu-central-1
 # project variables
 PROJECT_NAME=kubernetes-github-actions
 WEBSITE_PORT=3000
